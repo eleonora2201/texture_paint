@@ -23,6 +23,7 @@ UV展開と呼ばれる
 ## 実際どんな感じ？
 ![texture3](https://user-images.githubusercontent.com/60653027/219849847-017ae298-8cab-4536-9460-64edd1c2a6d5.png)  
 目だと思われる穴の下に赤でギザギザの線を描くと3Dの方にも赤のギザギザが反映される
+逆も可能
 
 ## ときのそらのテクスチャペイントはこんな感じ
 ![texture4](https://user-images.githubusercontent.com/60653027/219849952-db7113b2-ad7c-4794-8717-971fe0c08f91.png)  
