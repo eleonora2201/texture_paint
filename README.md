@@ -12,10 +12,12 @@
   
 ![texture1](https://github.com/eleonora2201/texture_paint//Images/image3.png)  
 右の3Dの状態から左の2Dのように表面を広げる  
+UV展開と呼ばれる
 (これは僕がやります)  
 
 ![texture2](https://github.com/eleonora2201/texture_paint/Images/image4.png)  
 このように左の画面で丸を描くと3Dに反映される  
+平面で色を塗っていくことで3Dの見た目を良くしていく
 (これをお願いしたいです)
 
 ## 実際どんな感じ？
